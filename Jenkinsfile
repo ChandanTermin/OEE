@@ -14,7 +14,7 @@ pipeline {
             steps {
 
                 git branch: 'main',
-                url: 'https://github.com/YOUR_USERNAME/demo-app.git'
+                url: 'https://github.com/ChandanTermin/OEE.git'
 
             }
         }
